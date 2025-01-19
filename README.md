@@ -1,5 +1,7 @@
 # Robust Testing for Deep Learning using Human Label Noise 🤖
 
+<img src="images/snls-overview.png" alt="teaser" width="50%"/>
+
 Welcome to the code repository for **Robust Testing for Deep Learning using Human Label Noise**! This project introduces new methods to analyze and address human label noise in machine learning.
 
 ---
@@ -13,10 +15,15 @@ Our paper presents the first study to analyze memorization scores of human noisy
 
    **Folder:** `label_memorization/`  
 
+   <img src="images/cifar10n-clip-embeddings.png" alt="teaser" width="25%"/>
+
 2. **Cluster-Based Noise (CBN)** 🎯  
 Inspired by our observations from the study of label memorization in human noisy labels, we propose Cluster-Based Noise (CBN), a method to generate more challenging, feature-dependent noise. This section includes generated labels for various noise levels on CIFAR-10 and CIFAR-100, as well as label noise files from [PMD noise](https://github.com/pxiangwu/PLC).
 
    **Folder:** `label_noise/`  
+
+
+   <img src="images/cbn-vs-pmd.png" alt="teaser" width="50%"/>
 
 3. **Soft Neighbor Label Sampling (SNLS)** 🛠️  
 We introduce a novel approach to train models effectively on datasets with Cluster-Based Noise. This section provides code to reproduce the results of our experiments and benchmarks against other methods.
