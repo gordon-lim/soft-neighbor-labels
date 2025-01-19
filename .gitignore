@@ -1,0 +1,12 @@
+embeddings/
+archive/
+*.npz
+wandb/
+/data/
+label_noise/data/
+lnl_methods/plc/cifar/data/
+lnl_methods/lra-diffusion-snls/animal-10n/
+__pycache__/
+.ipynb_checkpoints/
+model/
+So2Sat-LCZ42/
