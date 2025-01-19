@@ -1,4 +1,4 @@
-# Robust Testing for Deep Learning using Human Label Noise 🤖
+# Robust Testing for Deep Learning using Human Label Noise (ICSE DeepTest 2025, to appear) 🤖 [Paper](https://arxiv.org/abs/2412.00244v1)
 
 
 <img src="images/snls-overview.jpg" alt="SNLS Overview" width="100%"/>
