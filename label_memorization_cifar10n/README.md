@@ -1,5 +1,5 @@
 # **Label Memorization of Human Noisy Labels** 🧠  
-This folder provides everything you need to calculate **label memorization scores** for the CIFAR-10N human noisy labels, as described in our paper. The analysis and figure generation are covered in the `analysis` Jupyter notebook.
+This folder provides everything you need to calculate **label memorization scores** for the CIFAR-10N human noisy labels using [heldout estimation](https://github.com/google-research/heldout-influence-estimation). We release the label memorization scores we have computed from 1500 trained ResNet34 models on [Zenodo](https://zenodo.org/records/14687826) to facilitate future research. The analysis and figure generation are covered in the `analysis` Jupyter notebook.
 
 ---
 
