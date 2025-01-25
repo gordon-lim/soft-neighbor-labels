@@ -44,6 +44,9 @@ series = {DeepTest '25}
 
 ```
 
+Acknowledgments 🤝
+We acknowledge the use of ChatGPT by OpenAI for assisting in writing code and refining documentation during the development of this project. 
+
 ---
 
 Feel free to open an issue or contribute to this repository. Happy testing! 🎉
